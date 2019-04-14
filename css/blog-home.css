@@ -15,3 +15,9 @@ body {
     height: auto;
     vertical-align: middle;
 }
+/*
+.bg-header{
+    background-image: url("../images/header_background.jpg");
+    background-size: cover;
+    background-position: center; 
+}*/
